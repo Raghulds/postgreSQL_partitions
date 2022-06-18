@@ -1,0 +1,14 @@
+{
+  "name": "automate_partitions",
+  "version": "1.0.0",
+  "description": "JS script to create and populate a billion rows postgres table",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.5.1"
+  }
+}
